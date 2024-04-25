@@ -1,4 +1,4 @@
 Hi 👋, I'm Sandra
-A motivared software engineering student.
-🌱 I’m currently learning C#, Java and Javascript. 
+A motivated software engineer.
+🌱 I’m currently learning Java and Javascript. 
 👯 I’m looking to collaborate on projects that will challenge me and stretch my learning capacity.**
